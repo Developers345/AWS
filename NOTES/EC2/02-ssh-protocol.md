@@ -55,7 +55,6 @@ Be careful not to expose passwords, private keys, or other secrets in terminal o
 
 The diagram below illustrates a local workstation using an SSH client and a key pair to connect to a remote EC2 instance in the AWS cloud.
 
-![SSH client, key pair, and remote EC2 instance diagram](23-SEP-2021-SSH.png)
 <img width="1480" height="673" alt="Screenshot 2026-10-27 125414" src="https://github.com/user-attachments/assets/0927963a-95d2-4bda-aa49-b00a44f94818" />
 
 
