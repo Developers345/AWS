@@ -192,5 +192,8 @@ The steps to configure a public subnet are:
 9. Launch or configure an EC2 instance in the public subnet with a public IPv4 address.
 10. Verify the required security group, network ACL, and instance firewall rules.
 
+## Diagram
+<img width="3568" height="4172" alt="28-SEP-2021-PUBLICSUBNET" src="https://github.com/user-attachments/assets/bce2d1d6-e087-4257-9214-df9f09e87052" />
+
 **Key takeaway:** Attaching an Internet Gateway to a VPC makes it available to the VPC, but routing external traffic through it requires an appropriate route table associated with the subnet. An EC2 instance also needs a public IP address and suitable network and security configurations to communicate directly with the internet.
 
