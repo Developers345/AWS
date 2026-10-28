@@ -1,5 +1,3 @@
-Here is your content converted into Markdown (`.md`) format with proper headings, lists, code formatting, and routing details.
-
 # Use Case 1: AWS VPC with Public and Private Subnets
 
 ## Architecture Overview
@@ -196,4 +194,3 @@ The steps to configure a public subnet are:
 
 **Key takeaway:** Attaching an Internet Gateway to a VPC makes it available to the VPC, but routing external traffic through it requires an appropriate route table associated with the subnet. An EC2 instance also needs a public IP address and suitable network and security configurations to communicate directly with the internet.
 
-**How to save it:** Copy the content into a text editor and save it as `usecase-1.md`. You can then open it in VS Code, GitHub, or any Markdown editor.
